@@ -1,5 +1,8 @@
 _repo: Blackfoot-Lodge-Tales--13-The-Story-of-a-Prairie-People_11547
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grinnell, George Bird
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4021
     wikipedia: http://en.wikipedia.org/wiki/George_Bird_Grinnell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11547#Blackfoot-Lodge-Tales--13-The-Story-of-a-Prairie-People
 gutenberg_bookshelf:
 - Folklore
 - Native America
